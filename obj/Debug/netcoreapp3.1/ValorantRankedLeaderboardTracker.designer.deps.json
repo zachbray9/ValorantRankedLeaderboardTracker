@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MingweiSamuel.Camille/2.8.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/Camille.dll": {
+            "assemblyVersion": "2.8.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MingweiSamuel.Camille/2.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2uM7RcZvkbwmBiLAACOdrm5DKCJF3i/NcneEnFFVwQ+hhwKQRTLudoI3ToEVbsKl532OIl5TC8fNLPgyKBv6Uw==",
+      "path": "mingweisamuel.camille/2.8.0",
+      "hashPath": "mingweisamuel.camille.2.8.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7ARpFLvZoIO8B3ipnR5nj2G/zn3txLfjnYkRIt+J2ViHZtpwtuLweVvMsNEdhbnqY/BkU1D3UgivBe38fNDkpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zachb\\OneDrive\\Documents\\Github Repositories\\ValorantMatchDataTracker\\ValorantRankedLeaderboardTracker\\ValorantRankedLeaderboardTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zachb\\.nuget\\packages\\mingweisamuel.camille\\2.8.0\\mingweisamuel.camille.2.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
